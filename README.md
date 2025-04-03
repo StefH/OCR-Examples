@@ -6,4 +6,4 @@
 Both examples assume that LM Studio is running locally.
 
 ## Blog
-- A blog post will be published in some time...
+- [Using olmOCR LLM to extract text from images](https://mstack.nl/blogs/olmocr/)
